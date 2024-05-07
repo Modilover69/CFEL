@@ -50,7 +50,7 @@ click on count and it will start the process and count the occurrence of a proce
 
 ## 2. Capture RAM
 
-tools used - RAMmap  
+tool used - RAMmap  
 
 RAMmap - to start this tool open cmd and run ``` rammap ``` command this window will show up  
 ![image](https://github.com/Modilover69/CFEL/assets/132368904/04c69c93-c344-481b-a095-fe54b9271296)
@@ -62,7 +62,21 @@ open cmd and run ``` tcpview ```
 ![image](https://github.com/Modilover69/CFEL/assets/132368904/3979101e-aae6-48b2-bcb4-02b5b870c974)
 this window will show up right click on any process and click whois this will tell everthing about that process (click process other than system cause whois will not work on those process)  
 
-![image](https://github.com/Modilover69/CFEL/assets/132368904/84f96252-2dde-465e-91aa-884e141aa560)  
-select any process you like and its usage will be shown on the main window
+## 4. Monitor Hard Disk
+
+tool used - Diskmon  
+open cmd and run ```diskmon```  
+make sure you run cmd as an administrator  
+
+![image](https://github.com/Modilover69/CFEL/assets/132368904/74df8dbb-0f39-41aa-a14b-0e42325e101e)
+
+## 5. Monitor Virtual Memory
+
+tools used - VMmap  
+
+VMmap - to start this tool open cmd and run ``` vmmap ``` command this window will show up  
+
+![image](https://github.com/Modilover69/CFEL/assets/132368904/84f96252-2dde-465e-91aa-884e141aa560)   
+select any process you like and its usage will be shown on the main window  
 
 ![image](https://github.com/Modilover69/CFEL/assets/132368904/027fdb68-c225-4ccb-b172-aa12eb17bfff)
